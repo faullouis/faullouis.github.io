@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Antoine Faul's homepage"
+title                    : "Louis Faul's homepage"
 title_separator          : "-"
-name                     : &name "Antoine Faul"
+name                     : &name "Louis Faul"
 description              : &description "personal description"
-url                      : "https://antoinefaul67.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://louisfaul.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "antoinefaul67/antoinefaul67.github.io"
+repository               : "faullouis/louisfaul.github.io"
 
 minimal_mistakes_skin: default
 search: true
