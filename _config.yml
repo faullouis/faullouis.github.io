@@ -58,11 +58,11 @@ plugins:
 author:
   name             : "About me"
   avatar           : "AntoineFaul_photo.jpeg"
-  bio              : "PhD Student in Statistics."
-  location         : "Bern, Switzerland"
+  bio              : "PhD Student in Applied Probability."
+  location         : "Fribourg, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_xKtKzMAAAAJ&hl=fr&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=nd6e_WIAAAAJ&hl=fr&oi=ao"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
