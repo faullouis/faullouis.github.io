@@ -14,9 +14,9 @@ title                    : "Louis Faul's homepage"
 title_separator          : "-"
 name                     : &name "Louis Faul"
 description              : &description "personal description"
-url                      : "https://louisfaul.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://faullouis.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "faullouis/louisfaul.github.io"
+repository               : "faullouis/faullouis.github.io"
 
 minimal_mistakes_skin: default
 search: true
