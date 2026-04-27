@@ -17,7 +17,7 @@ author_profile: true
 
 
   * [*Identifiability of SDEs for reaction networks.* ]( https://doi.org/10.1017/S0956792526100382)
-Status: Accepted for Publication in \textit{European Journal of Applied Mathematics} (2026)
+Status: Accepted for Publication in European Journal of Applied Mathematics (2026)
 Work by *L.F*, Linard Hoessly and Panqiu Xia
 
   * [*On the abelian structure of noncompetitive chemical reaction networks*](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000712)
