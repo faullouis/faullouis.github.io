@@ -16,15 +16,15 @@ author_profile: true
 ---
 
 
-  * [*Identifiability of SDEs for reaction networks.* ]( https://doi.org/10.1017/S0956792526100382)
+  * [*Identifiability of SDEs for reaction networks,* ]( https://doi.org/10.1017/S0956792526100382)
 Status: Accepted for Publication in European Journal of Applied Mathematics (2026).
 Work by *L.F*, Linard Hoessly and Panqiu Xia
 
-  * [*On the abelian structure of noncompetitive chemical reaction networks*](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000712)
+  * [*On the abelian structure of noncompetitive chemical reaction networks,*](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000712)
 Status: Submitted (2026). 
 Work by *L.F*, Christian Mazza, Xavier Richard and Marie Betrisey.
 
-  * *Stability and feasibility of microbial consumer-resource model*  
+  * *Stability and feasibility of microbial consumer-resource model,*  
 Status: In preparation (2026).
 Work by *L.F*, Christian Mazza, and Xavier Richard.
 
