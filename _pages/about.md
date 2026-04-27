@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: "About me"
-description: "Antoine Faul's homepage"
+description: "Louis Faul's homepage"
 author_profile: true
 layout: single
 classes: wide
@@ -11,12 +11,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+Hello and welcome to my personal page!
 
-I am currently a final year PhD Student in Statistics at the University of Bern, under the supervision of Prof. David Ginsbourger and Prof. Ben Spycher.
+I am currently a final year PhD Student in Applied Probability at the University of Fribourg, under the supervision of Prof. Christian Mazza.
 
-My research interests span across several areas, including copulas, probabilistic prediction and uncertainty quantification, and I also have a strong interest in synthetic data generation and missing value imputation methods. 
+My research interests span across several topics in mathematical biology, including Stochastic Chemical Reaction Networks Theory and Mathematical Ecology.
 
-My doctoral studies are partially funded by the Multidisciplinary Center for Infectious Diseases (MCID), where I collaborate on a project involving clinical and wearable data alongside clinicians and epidemiologists.
+I also have a strong interest in Statistics and Data Science.
 
-I’m especially motivated by applications of statistics to domains such as climate sciences and medicine.
+I’m looking for a Post-Doc position starting from October 2026.
