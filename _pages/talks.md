@@ -14,7 +14,7 @@ Upcoming Talks
 * [*European Conference on Mathematical and Theoretical Biology*](https://ecmtb2026.org/)  
   July 2026, Graz, Austria.
 
-Selected Talks
+Selected Past Talks
 ---
 
 * [*Seminar on the Mathematics of Reaction Networks*](https://researchseminars.org/seminar/MoRN)  
