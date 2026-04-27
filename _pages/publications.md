@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Publications"
-description: "Antoine Fauls's list of publications"
+description: "Louis Fauls's list of publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,34 +12,28 @@ author_profile: true
 {% endif %}
 
 
-Papers
+
 ---
 
 
-  * [*Easy conditioning far beyond Gaussian.* ](https://arxiv.org/abs/2409.16003)
-Status: Submitted (2026)
-Work by *A.F*, David Ginsbourger and Ben Spycher
+  * [*Identifiability of SDEs for reaction networks.* ](doi: 10.1017/S0956792526100382.)
+Status: Accepted for Publication (2026)
+Work by *L.F*, Linard Hoessly and Panqiu Xia
 
-  * *Copula-based Synthetic Data Generation in Medicine*  
+  * [*On the abelian structure of noncompetitive chemical reaction networks*](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000712)
+Status: Submitted (2026). 
+Work by *L.F*, Christian Mazza, Xavier Richard and Marie Betrisey.
+
+  * *Stability and feasibility of microbial consumer-resource model*  
 Status: In preparation (2026)
-Work by *A.F*, David Ginsbourger, Ben Spycher and Petra Stute.
-
-  * *Modelling Complex Tabular Datasets with a Mixture of Diverse Generative Models.*
-Status: Submitted (2026)
-Work by *A.F*, Xiao Zhou, Ossi Raisa, Mihaela Van der Schaar and Cem Tekin.
-
-  * [*Comparing imputation approaches to handle systematically missing inputs in risk calculators*](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000712)
-Status: Published in Plos Digital Health. 
-Work by with Anja Mühlemann, Philip Stange, A.F, Serena Lozza-Fiacco, Rowan Iskandar, Manuela Moraru, Susanne Theis, Petra Stute, Ben D. Spycher and David Ginsbourger.
+Work by *L.F*, Christian Mazza, and Xavier Richard.
 
 
 
 
-Other publications
----
- * *Preparation of a 6-month prospective observational study to compare and predict respiratory tract infections in postmenopausal women with and without hormone replacement therapy*
-Work by P. Wyss, D. Bower, A. Mühlemann, *A.F*, M. Moraru, B. Spycher, D. Ginsbourger and P. Stute.
-2024, Medical Protocol
+
+
+
 
    
 * *Investigating cardiovascular and respiratory infection risks across menopause using multi-modal cohort data.* 
