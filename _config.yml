@@ -57,7 +57,7 @@ plugins:
 # Site Author
 author:
   name             : "About me"
-  avatar           : "AntoineFaul_photo.jpeg"
+  avatar           : "photo.jpg"
   bio              : "PhD Student in Applied Probability."
   location         : "Fribourg, Switzerland"
   employer         :
