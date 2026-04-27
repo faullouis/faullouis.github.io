@@ -2,7 +2,7 @@
 layout: cv-layout
 classes: wide
 title: "A quick resume"
-description: "Antoine Faul's resume"
+description: "Louis Faul's resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
