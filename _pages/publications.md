@@ -29,13 +29,3 @@ Status: In preparation (2026)
 Work by *L.F*, Christian Mazza, and Xavier Richard.
 
 
-
-
-
-
-
-
-   
-* *Investigating cardiovascular and respiratory infection risks across menopause using multi-modal cohort data.* 
-Work by D. Ginsbourger, *A.F*, A. Mühlemann, P. Stute, E. Pavicic,  D. Bower and B. Spycher.
-Article in the SPREAD Newsletter of the University of Bern.
