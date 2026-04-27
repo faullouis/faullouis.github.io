@@ -20,7 +20,7 @@ Selected Talks
 * [*Seminar on the Mathematics of Reaction Networks*](https://researchseminars.org/seminar/MoRN)  
  February 2026, online.
 
-* [*Mathematical Biology Modeelling days*](https://mb2-2025.sciencesconf.org/)  
+* [*Mathematical Biology Modelling days*](https://mb2-2025.sciencesconf.org/)  
   October 2026, Besançon, France.
 
 * [*Stochastic Reaction Networks Workshop*](https://constrained.polito.it/stochastic-reaction-networks-workshop/)  
