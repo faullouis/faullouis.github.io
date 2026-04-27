@@ -26,6 +26,6 @@ Work by *L.F*, Christian Mazza, Xavier Richard and Marie Betrisey.
 
   * *Stability and feasibility of microbial consumer-resource model,*  
 Status: In preparation (2026).
-Work by *L.F*, Christian Mazza, and Xavier Richard.
+Work by *L.F*, Christian Mazza, Xavier Richard, and Jan Roelof van der Meer.
 
 
