@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Talks and Posters"
+title: "Talks"
 description: "Louis Faul's upcoming and past talks or events"
 permalink: /talks/
 author_profile: true
