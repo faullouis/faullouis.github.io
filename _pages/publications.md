@@ -20,12 +20,12 @@ author_profile: true
 Status: Accepted for Publication in European Journal of Applied Mathematics (2026).
 Work by *L.F*, Linard Hoessly and Panqiu Xia
 
-  * [*On the abelian structure of noncompetitive chemical reaction networks,*](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000712)
-Status: Submitted (2026). 
+  * [*On the abelian structure of noncompetitive chemical reaction networks,*](https://arxiv.org/abs/2512.17491)
+Status: Under Review (2026). 
 Work by *L.F*, Christian Mazza, Xavier Richard and Marie Betrisey.
 
-  * *Stability and feasibility of microbial consumer-resource model,*  
-Status: In preparation (2026).
+  * [*Stability and feasibility of Microbial Consumer-Resource Model,*](https://arxiv.org/abs/2607.19982)
+Status: Submitted (2026).
 Work by *L.F*, Christian Mazza, Xavier Richard, and Jan Roelof van der Meer.
 
 
