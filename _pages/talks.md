@@ -7,13 +7,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-
-Upcoming Talks 
----
-
-* [*European Conference on Mathematical and Theoretical Biology*](https://ecmtb2026.org/)  
-  July 2026, Graz, Austria.
-
 Selected Past Talks
 ---
 
